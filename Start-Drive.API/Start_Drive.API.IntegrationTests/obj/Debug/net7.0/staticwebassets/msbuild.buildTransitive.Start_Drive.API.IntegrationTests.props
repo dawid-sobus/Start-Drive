@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Start_Drive.API.IntegrationTests.props" />
+</Project>

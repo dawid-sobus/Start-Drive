@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start-Drive.API", "Start-Drive.API\Start-Drive.API.csproj", "{10A85AE9-43CC-4F03-8600-FAAE2F585F18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start-Drive.API", "Start-Drive.API\Start-Drive.API.csproj", "{10A85AE9-43CC-4F03-8600-FAAE2F585F18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start_Drive.API.UnitTests", "Start_Drive.API.UnitTests\Start_Drive.API.UnitTests.csproj", "{48417F32-B757-4E3C-8463-36CE6D5C13E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start_Drive.API.IntegrationTests", "Start_Drive.API.IntegrationTests\Start_Drive.API.IntegrationTests.csproj", "{670B0781-45CA-44B5-AC95-A25600206CC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{10A85AE9-43CC-4F03-8600-FAAE2F585F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A85AE9-43CC-4F03-8600-FAAE2F585F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A85AE9-43CC-4F03-8600-FAAE2F585F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48417F32-B757-4E3C-8463-36CE6D5C13E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48417F32-B757-4E3C-8463-36CE6D5C13E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48417F32-B757-4E3C-8463-36CE6D5C13E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48417F32-B757-4E3C-8463-36CE6D5C13E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670B0781-45CA-44B5-AC95-A25600206CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670B0781-45CA-44B5-AC95-A25600206CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670B0781-45CA-44B5-AC95-A25600206CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670B0781-45CA-44B5-AC95-A25600206CC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

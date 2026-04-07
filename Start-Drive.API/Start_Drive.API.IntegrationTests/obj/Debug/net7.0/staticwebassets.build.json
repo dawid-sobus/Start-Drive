@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "hmhe09E81ITiYbKOdgH2Fy0P4OXsT50i6IS75eEEmmc=",
+  "Source": "Start_Drive.API.IntegrationTests",
+  "BasePath": "_content/Start_Drive.API.IntegrationTests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\dawid\\OneDrive\\Desktop\\Start-Drive application\\Start-Drive.API\\Start-Drive.API\\Start-Drive.API.csproj",
+      "Version": 2,
+      "Source": "Start-Drive.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

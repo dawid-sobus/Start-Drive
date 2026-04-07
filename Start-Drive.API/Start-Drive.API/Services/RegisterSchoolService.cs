@@ -63,7 +63,6 @@ namespace Start_Drive.API.Services
             };
 
             aboutDrivingSchool.DrivingSchoolId = schoolId;
-            aboutDrivingSchool.AboutText = "";
 
             _context.Add(aboutDrivingSchool);
             _context.SaveChanges();

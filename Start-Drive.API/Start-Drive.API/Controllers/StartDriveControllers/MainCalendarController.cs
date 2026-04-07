@@ -37,7 +37,7 @@ namespace Start_Drive.API.Controllers.StartDriveControllers
         }
 
         [Authorize]
-        [RequiresClaim(IdentityData.AdminUserClaimName, "schoolId", "student")]
+        [RequiresClaim(IdentityData.AdminUserClaimName, "school", "student")]
         [HttpGet("{schoolId}/{studentId}")]
         public ActionResult<IEnumerable<StudentsHourDriveDto>> GetDrivingHoursForStudent([FromRoute] int schoolId, [FromRoute] int studentId)
         {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0nbwW1peHgFz5X4O6bMxwn+GPsnDJu11XFNYVJG8trMTLyDqmiW3Q2D1C8ykBJHsgA/z+Yb3fPaYhM38j4G9KA==",
+  "dgSpecHash": "OFH5vDv9TOPCUmphWcvjUwGp2kw5Dgta/UHlT2rybC+d9PqWynVvZVEacJasYCeEkYhZ3V09DNwkN9mIpVGlrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dawid\\OneDrive\\Desktop\\Start-Drive application\\Start-Drive.API\\Start_Drive.API.IntegrationTests\\Start_Drive.API.IntegrationTests.csproj",
   "expectedPackageFiles": [
