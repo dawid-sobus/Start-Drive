@@ -121,12 +121,17 @@ In this tab, students can see general information about the driving school.
 
 In this tab, students can check their data and delete their account from the application.
 
+## XUnit - Application Testing
+Unit and integration testing was performed on the backend using XUnit.
+
 
 ## Technologies:
 - C#, .NET, Entity framework (backend),
 - JWT (authorization)
 - Angular, TypeScript, Bootstrap, HTML, CSS (frontend)
 - SQL Server (database)
+
+- XUnit Tests (unit and integration tests)
 
 ## Starting:
 To start the application you need to:
